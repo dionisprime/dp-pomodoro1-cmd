@@ -79,6 +79,6 @@ public class PomodoroTimer {
                 TimeUnit.SECONDS.sleep(length);
             }
         }
-        System.out.println(f);
+        System.out.println();
     }
 }
